@@ -1,5 +1,3 @@
-# LoupedeckPluginSdk4
-
-Loupedeck Plugin SDK repository is here:
+# Loupedeck Plugin SDK repository moved here:
 
 * [Loupedeck Plugin SDK](https://github.com/Loupedeck/LoupedeckPluginSdk/)
