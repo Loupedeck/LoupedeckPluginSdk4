@@ -1,3 +1,3 @@
 ## Loupedeck Plugin SDK repository is here:
 
-* [Loupedeck Plugin SDK](https://github.com/Loupedeck/LoupedeckPluginSdk/)
+* [Loupedeck Plugin SDK](https://github.com/Loupedeck/PluginSdk/)
